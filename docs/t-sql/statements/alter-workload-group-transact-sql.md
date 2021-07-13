@@ -2,12 +2,12 @@
 description: "ALTER WORKLOAD GROUP (Transact-SQL)"
 title: ALTER WORKLOAD GROUP (Transact-SQL) 
 ms.custom: ""
-ms.date: "05/05/2020"
+ms.date: "05/04/2021"
 ms.prod: sql
 ms.prod_service: "sql-database"
 ms.reviewer: ""
 ms.technology: t-sql
-ms.topic: "language-reference"
+ms.topic: reference
 f1_keywords: 
   - "ALTER_WORKLOAD_GROUP_TSQL"
   - "ALTER WORKLOAD GROUP"
@@ -15,9 +15,8 @@ dev_langs:
   - "TSQL"
 helpviewer_keywords: 
   - "ALTER WORKLOAD GROUP statement"
-ms.assetid: 957addce-feb0-4e54-893e-5faca3cd184c
-author: markingmyname
-ms.author: maghan
+author: WilliamDAssafMSFT
+ms.author: wiassaf
 monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||=azuresqldb-mi-current"
 ---
 # ALTER WORKLOAD GROUP (Transact-SQL)
@@ -31,10 +30,10 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
         **_\* SQL Server \*_** &nbsp;
     :::column-end:::
     :::column:::
-        [SQL Managed Instance](alter-workload-group-transact-sql.md?view=azuresqldb-mi-current)
+        [SQL Managed Instance](alter-workload-group-transact-sql.md?view=azuresqldb-mi-current&preserve-view=true)
     :::column-end:::
     :::column:::
-        [Azure Synapse<br />Analytics](alter-workload-group-transact-sql.md?view=azure-sqldw-latest)
+        [Azure Synapse<br />Analytics](alter-workload-group-transact-sql.md?view=azure-sqldw-latest&preserve-view=true)
     :::column-end:::
 :::row-end:::
 
@@ -49,13 +48,13 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
 
 :::row:::
     :::column:::
-        [SQL Server](alter-workload-group-transact-sql.md?view=sql-server-2017)
+        [SQL Server](alter-workload-group-transact-sql.md?view=sql-server-ver15&preserve-view=true)
     :::column-end:::
     :::column:::
         **_\* SQL Managed Instance \*_** &nbsp;
     :::column-end:::
     :::column:::
-        [Azure Synapse<br />Analytics](alter-workload-group-transact-sql.md?view=azure-sqldw-latest)
+        [Azure Synapse<br />Analytics](alter-workload-group-transact-sql.md?view=azure-sqldw-latest&preserve-view=true)
     :::column-end:::
 :::row-end:::
 
@@ -70,10 +69,10 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
 
 :::row:::
     :::column:::
-        [SQL Server](alter-workload-group-transact-sql.md?view=sql-server-2017)
+        [SQL Server](alter-workload-group-transact-sql.md?view=sql-server-ver15&preserve-view=true)
     :::column-end:::
     :::column:::
-        [SQL Managed Instance](alter-workload-group-transact-sql.md?view=azuresqldb-mi-current)
+        [SQL Managed Instance](alter-workload-group-transact-sql.md?view=azuresqldb-mi-current&preserve-view=true)
     :::column-end:::
     :::column:::
         **_\* Azure Synapse<br />Analytics \*_** &nbsp;

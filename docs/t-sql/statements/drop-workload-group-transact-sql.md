@@ -7,7 +7,7 @@ ms.prod: sql
 ms.prod_service: "sql-database"
 ms.reviewer: ""
 ms.technology: t-sql
-ms.topic: "language-reference"
+ms.topic: reference
 f1_keywords: 
   - "DROP_WORKLOAD_GROUP_TSQL"
   - "DROP WORKLOAD GROUP"
@@ -15,8 +15,8 @@ dev_langs:
   - "TSQL"
 helpviewer_keywords: 
   - "DROP WORKLOAD GROUP statement"
-author: markingmyname
-ms.author: maghan
+author: WilliamDAssafMSFT
+ms.author: wiassaf
 monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||=azuresqldb-mi-current"
 ---
 # DROP WORKLOAD GROUP (Transact-SQL)
@@ -30,10 +30,10 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
         **_\* SQL Server \*_** &nbsp;
     :::column-end:::
     :::column:::
-        [SQL Managed Instance](drop-workload-group-transact-sql.md?view=azuresqldb-mi-current)
+        [SQL Managed Instance](drop-workload-group-transact-sql.md?view=azuresqldb-mi-current&preserve-view=true)
     :::column-end:::
     :::column:::
-        [Azure Synapse<br />Analytics](drop-workload-group-transact-sql.md?view=azure-sqldw-latest)
+        [Azure Synapse<br />Analytics](drop-workload-group-transact-sql.md?view=azure-sqldw-latest&preserve-view=true)
     :::column-end:::
 :::row-end:::
 
@@ -48,13 +48,13 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
 
 :::row:::
     :::column:::
-        [SQL Server](drop-workload-group-transact-sql.md?view=sql-server-2017)
+        [SQL Server](drop-workload-group-transact-sql.md?view=sql-server-ver15&preserve-view=true)
     :::column-end:::
     :::column:::
         **_\* SQL Managed Instance \*_** &nbsp;
     :::column-end:::
     :::column:::
-        [Azure Synapse<br />Analytics](drop-workload-group-transact-sql.md?view=azure-sqldw-latest)
+        [Azure Synapse<br />Analytics](drop-workload-group-transact-sql.md?view=azure-sqldw-latest&preserve-view=true)
     :::column-end:::
 :::row-end:::
 
@@ -69,10 +69,10 @@ monikerRange: ">=sql-server-2016||>=sql-server-linux-2017||=azure-sqldw-latest||
 
 :::row:::
     :::column:::
-        [SQL Server](drop-workload-group-transact-sql.md?view=sql-server-2017)
+        [SQL Server](drop-workload-group-transact-sql.md?view=sql-server-ver15&preserve-view=true)
     :::column-end:::
     :::column:::
-        [SQL Managed Instance](drop-workload-group-transact-sql.md?view=azuresqldb-mi-current)
+        [SQL Managed Instance](drop-workload-group-transact-sql.md?view=azuresqldb-mi-current&preserve-view=true)
     :::column-end:::
     :::column:::
         **_\* Azure Synapse<br />Analytics \*_** &nbsp;

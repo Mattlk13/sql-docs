@@ -11,8 +11,8 @@ ms.topic: conceptual
 f1_keywords: 
   - "sql13.swb.databaseproperties.options.f1"
 ms.assetid: a3447987-5507-4630-ac35-58821b72354d
-author: "stevestein"
-ms.author: "sstein"
+author: WilliamDAssafMSFT
+ms.author: wiassaf
 ---
 # Database Properties (Options Page)
  [!INCLUDE [SQL Server](../../includes/applies-to-version/sqlserver.md)]
@@ -162,7 +162,7 @@ Enables this feature.
  When **False**, correlation statistics are not maintained.  
  
  **Delayed Durability**  
- Enables this feature.  
+ Enables this feature. For more information, see [Control Transaction Durability](../logs/control-transaction-durability.md).
  
  **Is Read Committed Snapshot On**  
  Enables this feature.  

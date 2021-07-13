@@ -6,7 +6,7 @@ ms.date: "10/14/2019"
 ms.prod: sql 
 ms.technology: data-warehouse
 ms.reviewer: ""
-ms.topic: "language-reference"
+ms.topic: "reference"
 dev_langs: 
   - "TSQL"
 ms.assetid: 
@@ -20,6 +20,9 @@ monikerRange: "=azure-sqldw-latest"
 
 Returns the Showplan in text format for a [!INCLUDE[tsql](../../includes/tsql-md.md)] batch or for a specific statement within the batch.
 
+> [!NOTE]
+> [!INCLUDE[synapse-analytics-od-unsupported-syntax](../../includes/synapse-analytics-od-unsupported-syntax.md)]
+
 ## Table returned  
   
 |Column name|Data type|Description|  
@@ -32,7 +35,7 @@ Returns the Showplan in text format for a [!INCLUDE[tsql](../../includes/tsql-md
 |**query_plan**|**nvarchar(max)**|Contains the compile-time Showplan representation of the query execution plan that is specified with *plan_handle*. The Showplan is in text format. One plan is generated for each batch that contains, for example ad hoc [!INCLUDE[tsql](../../includes/tsql-md.md)] statements, stored procedure calls, and user-defined function calls.<br /><br /> Column is nullable.|  
 
 ## Remarks  
-The same remarks in [sys.dm_exec_text_query_plan](./sys-dm-exec-text-query-plan-transact-sql.md?view=sql-server-ver15) apply.  
+The same remarks in [sys.dm_exec_text_query_plan](./sys-dm-exec-text-query-plan-transact-sql.md) apply.  
 
 ## Permissions  
  Require **sysadmin** server role or `VIEW SERVER STATE` permission on the server.  

@@ -5,7 +5,7 @@ ms.custom: "seodec18"
 ms.date: "01/25/2019"
 ms.prod: sql
 ms.reviewer: ""
-ms.technology: high-availability
+ms.technology: availability-groups
 ms.topic: how-to
 helpviewer_keywords: 
   - "Availability Groups [SQL Server], interoperability"
@@ -193,7 +193,7 @@ EXEC sys.sp_validate_replica_hosts_as_publishers
   
 -   [Replication, Change Tracking, Change Data Capture, and Always On Availability Groups &#40;SQL Server&#41;](../../../database-engine/availability-groups/windows/replicate-track-change-data-capture-always-on-availability.md)  
   
--   [Replication Administration FAQ](../../../relational-databases/replication/administration/frequently-asked-questions-for-replication-administrators.md)  
+-   [Replication Administration FAQ](../../../relational-databases/replication/administration/frequently-asked-questions-for-replication-administrators.yml)  
   
  **To create and configure an availability group**  
   

@@ -4,10 +4,10 @@ title: "ALTER MASTER KEY (Transact-SQL) | Microsoft Docs"
 ms.custom: "fasttrack-edit"
 ms.date: "02/21/2019"
 ms.prod: sql
-ms.prod_service: "sql-data-warehouse, database-engine, pdw, sql-database"
+ms.prod_service: "synapse-analytics, database-engine, pdw, sql-database"
 ms.reviewer: ""
 ms.technology: t-sql
-ms.topic: "language-reference"
+ms.topic: reference
 f1_keywords: 
   - "ALTER MASTER KEY"
   - "ALTER_MASTER_KEY_TSQL"
@@ -143,5 +143,5 @@ GO
 - [RESTORE MASTER KEY](../../t-sql/statements/restore-master-key-transact-sql.md)
 - [DROP MASTER KEY](../../t-sql/statements/drop-master-key-transact-sql.md)
 - [Encryption Hierarchy](../../relational-databases/security/encryption/encryption-hierarchy.md)
-- [CREATE DATABASE](../../t-sql/statements/create-database-transact-sql.md?view=sql-server-2017)
+- [CREATE DATABASE](../../t-sql/statements/create-database-transact-sql.md)
 - [Database Detach and Attach](../../relational-databases/databases/database-detach-and-attach-sql-server.md)

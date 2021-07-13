@@ -1,12 +1,12 @@
 ---
 title: Install SCOM management packs
 description: Follow these steps to download and install the System Center Operations Manager (SCOM) Management Packs for SQL Server PDW. The Management Packs are required to monitor SQL Server PDW from SCOM. 
-author: mzaman1 
+author: charlesfeddersen 
 ms.prod: sql
 ms.technology: data-warehouse
 ms.topic: conceptual
 ms.date: 04/17/2018
-ms.author: murshedz
+ms.author: charlesf
 ms.reviewer: martinle
 ms.custom: seo-dt-2019
 ---
@@ -24,7 +24,7 @@ For the APS PDW workload, download the [System Center Management Pack for the Mi
   
 For the appliance management, download the [SQL Server Appliance Base Management Pack](/previous-versions/system-center/packs/gg602398(v=technet.10)).  
   
-For older versions of PDW without APS, download the[System Center Monitoring Pack for Microsoft SQL Server 2012 Parallel Data Warehouse Appliance](./download-and-apply-microsoft-updates.md?view=aps-pdw-2016-au7).  
+For older versions of PDW without APS, download the[System Center Monitoring Pack for Microsoft SQL Server 2012 Parallel Data Warehouse Appliance](./download-and-apply-microsoft-updates.md?view=aps-pdw-2016-au7&preserve-view=true).  
   
 <!-- MISSING LINKS - For the HDInsight workload, download the [System Center Management Pack for HDInsight](https://go.microsoft.com/fwlink/?LinkId=390208).  -->
   
